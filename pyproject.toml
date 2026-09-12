@@ -1,0 +1,19 @@
+[project]
+name = "animeface-genmodels"
+version = "0.1.0"
+description = "VAE and DDPM from scratch on the anime face dataset (kaggle splcher/animefacedataset)"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.2",
+    "torchvision>=0.17",
+    "numpy",
+    "pillow",
+    "tqdm",
+    "kagglehub",
+    "pytorch-fid",
+    "torchmetrics[image]",
+    "scipy",
+]
+
+[tool.uv]
+package = false

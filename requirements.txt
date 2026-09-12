@@ -1,0 +1,9 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pillow
+tqdm
+kagglehub
+pytorch-fid
+torchmetrics[image]
+scipy

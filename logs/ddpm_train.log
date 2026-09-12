@@ -1,0 +1,10 @@
+epoch 0 DONE | avg_mse_loss=0.0586 time=758.0s
+epoch 1 DONE | avg_mse_loss=0.0334 time=760.0s
+epoch 2 DONE | avg_mse_loss=0.0307 time=760.1s
+epoch 3 DONE | avg_mse_loss=0.0295 time=759.9s
+epoch 4 DONE | avg_mse_loss=0.0290 time=759.9s
+epoch 5 DONE | avg_mse_loss=0.0284 time=760.7s
+epoch 6 DONE | avg_mse_loss=0.0277 time=760.1s
+epoch 7 DONE | avg_mse_loss=0.0274 time=759.7s
+epoch 8 DONE | avg_mse_loss=0.0272 time=760.4s
+epoch 9 DONE | avg_mse_loss=0.0268 time=759.9s

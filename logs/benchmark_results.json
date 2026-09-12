@@ -1,0 +1,14 @@
+{
+  "VAE": {
+    "name": "VAE",
+    "fid": 282.9319290111416,
+    "inception_score_mean": 2.575281858444214,
+    "inception_score_std": 0.47483229637145996
+  },
+  "DDPM": {
+    "name": "DDPM",
+    "fid": 91.97488436101386,
+    "inception_score_mean": 2.1677777767181396,
+    "inception_score_std": 0.2954159379005432
+  }
+}
